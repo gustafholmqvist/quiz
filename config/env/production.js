@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://localhost/quiz',
+	db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://gushol:parker@ds053529.mongolab.com:53529/heroku_app27543982',
 	assets: {
 		lib: {
 			css: [

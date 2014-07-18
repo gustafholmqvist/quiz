@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/quiz-dev',
+	db: 'mongodb://gushol:parker@ds053529.mongolab.com:53529/heroku_app27543982',
 	app: {
 		title: 'quiz - Development Environment'
 	},
